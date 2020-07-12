@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@Shib_D'
+    twitter: '@Shibhi_D'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -46,12 +46,12 @@ career-profile:
     title: Career Profile
     summary: |
       System Engineer and DevOps Specialist with 8 years of experience 
-      in IT Infrastructure provisioning, management, capacity planning,  
+      in IT Infrastructure provisioning, management, capacity planning,
       performance tunning and problem diagnosis on both on-prem and cloud
       environments. Equally adept in DevOps, Automation and system programming. 
        
 education:
-    - degree: BE in Electrical and Electronics Engg.
+    - degree: BE in Electrical and Electronics
       university: Anna University
       time: 2006 - 2010
       details: |
@@ -64,9 +64,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: SW/App/Cloud Specialist
+      time: 2017 - Present
+      company: Accenture Solutions Private Limited, Bengaluru, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -79,9 +79,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technical Specialist
+      time: 2012 - 2016
+      company: HCL Technologies Limited, Chennai, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,17 +90,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
     title: Projects
     intro: >
@@ -128,8 +118,8 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+certifications:
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
